@@ -4,11 +4,11 @@
 <h2> 👣 Passo-a-Passo</h2>
 
 <p>
-<strong>	1.</strong> Vamos ABSTRAIR o DOMÍNIO Bootcamp e MODELAR seus ATRIBUTOS E MÉTODOS <br>
-<strong>	2.</strong> Criaremos as CLASSES: Bootcamp, Cursos, Mentorias e Devs e vamos relaciona-las <br>
-<strong>	3.</strong> As CLASSES Curso, Mentoria e Devs também serão MODELADOS, ou seja, criaremos seus ATRIBUTOS E MÉTODOS <br> 
-<strong>	4.</strong> Para que o código fique mais legível e de fácil manutenção, iremos utilizar de algumas das ferramentas que o PARADIGMA DE ORIENTAÇÃO A OBJETOS (POO) nos oferece: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO <br>
-<strong>	5.</strong> E para representar CLASSES que foram criadas e relacionadas, iremos transforma-las em OBJETOS<br>
+<strong>	1.</strong> Abstração do Domínio e Modelagem: Iniciei o projeto abstraindo o domínio do Bootcamp e modelando seus atributos e métodos essenciais. <br>
+<strong>	2.</strong> Criação das Classes: Desenvolvi as classes principais, como <strong>Bootcamp</strong>, <strong>Curso</strong>, <strong>Mentoria</strong> e <strong>Dev</strong>, e estabeleci as relações entre elas para garantir uma estrutura coesa. <br>
+<strong>	3.</strong> Modelagem Detalhada: Cada classe, como <strong>Curso, Mentoria e Dev</strong>, foi meticulosamente modelada, com definição de atributos e métodos específicos. <br> 
+<strong>	4.</strong> Aplicação dos Princípios de POO: Para garantir um código limpo e de fácil manutenção, utilizei os princípios fundamentais da POO, como abstração, encapsulamento, herança e polimorfismo. Esses conceitos ajudaram a criar um sistema robusto e flexível. <br>
+<strong>	5.</strong> Transformação em Objetos: Finalmente, as classes foram instanciadas em objetos, representando concretamente os elementos do sistema. <br>
 </p>
 
 ----
